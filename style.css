@@ -1,0 +1,96 @@
+html {
+	margin: auto;
+	max-width: 800px;
+	height: 100%;
+}
+body {
+	background-color: black;
+	color: white;
+	font-family: monospace;
+	font-size: 1em;
+	margin: auto;
+}
+main {
+	padding-left: 20px;
+	padding-right: 20px;
+}
+a {
+	text-decoration: underline;
+	color: white;
+}
+a:hover {
+	color: #999;
+}
+pre {
+	overflow-x: auto;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
+.prompt {
+	font-size: 10em;
+}
+.title {
+	font-size: 4em;
+	margin: 5px;
+}
+.container {
+	background-color: #222;
+	padding: 10px 10px 10px 20px;
+	border-radius: 6px;
+	margin-bottom: 10px;
+}
+.box {
+	border: 1px solid white;
+	text-align: center;
+	border-radius: 6px;
+	padding: 10px 10px 20px 10px;
+	margin: 40px;
+}
+.preview {
+	height: 250px;
+	width: 400px;
+}
+.blink {
+	animation: blink 1.1s linear infinite;
+}
+@keyframes blink {
+        0% {
+          opacity: 0;
+        }
+	49% {
+	  opacity: 0;
+	}
+        50% {
+          opacity: 1;
+        }
+        100% {
+          opacity: 1;
+        }
+}
+.cat-title {
+	color: #999;
+}
+.cat-container {
+display:grid;padding:0
+}
+@media only screen and (min-width:320px){
+.cat-container {grid-template-columns:auto}
+}
+@media only screen and (min-width:600px){
+.cat-container {grid-template-columns:auto auto}
+}
+@media only screen and (min-width:800px){
+.cat-container {grid-template-columns:auto auto auto}
+}
+.cat-item {
+clear:both
+}
+a.cat:link {
+background-color:#222;border-radius:6px;padding:9px;margin:6px;text-align:center;display:block;font-size:1em;text-decoration:none;font-weight:bold;
+}
+a.cat:hover {
+color: black
+}
+.cat-item a.cat:hover {
+background-color:#fff
+}

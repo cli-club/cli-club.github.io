@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://cli.club/rss.xml" rel="self" type="application/rss+xml" />
+    <title>CLI Club</title>
+    <link>https://cli.club</link>
+    <description>Command-line Interface Tools and Alternatives</description>
+    <language>en-us</language>
+   <item>
+      <title>Added "lazygit" simple terminal UI for git commands</title>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#lazygit</link>
+      <guid>https://cli.club/#lazygit</guid>
+      <description>Lazygit is a simple terminal UI for git commands, written in Go with the gocui library. Lazygit enables you to have a feeling of Sourcetree but in a terminal-centric environment. Lazygit is fast and easy to use, you just need to call lazygit in your terminal inside a git repository.
+      </description>
+    </item>
+   <item>
+      <title>Added "k9s" Kubernetes CLI To Manage Your Clusters In Style</title>
+      <pubDate>Thu, 19 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#k9s</link>
+      <guid>https://cli.club/#k9s</guid>
+      <description>K9s provides a terminal UI to interact with your Kubernetes clusters. The aim of this project is to make it easier to navigate, observe and manage your applications in the wild. K9s continually watches Kubernetes for changes and offers subsequent commands to interact with your observed resources.</description>
+    </item>
+   <item>
+      <title>Added "nb" A command line and local web note‑taking, bookmarking, archiving, and knowledge base application</title>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#nb</link>
+      <guid>https://cli.club/#nb</guid>
+      <description>nb is a command line and local web note‑taking, bookmarking, archiving, and knowledge base application with:
+
+    plain text data storage,
+    encryption,
+    filtering, pinning, #tagging, and search,
+    Git-backed versioning and syncing,
+    Pandoc-backed conversion,
+    [[wiki-style linking]],
+    terminal and GUI web browsing,
+    inline images,
+    todos with tasks,
+    global and local notebooks,
+    organization with folders,
+    customizable color themes,
+    extensibility through plugins,
+
+and more, in a single portable script.</description>
+    </item>
+   <item>
+      <title>Added "ntfy.sh" Send push notifications to your phone or desktop using PUT/POST</title>
+      <pubDate>Fri, 6 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#ntfy</link>
+      <guid>https://cli.club/#ntfy</guid>
+      <description>ntfy (pronounced "notify") is a simple HTTP-based pub-sub notification service. With ntfy, you can send notifications to your phone or desktop via scripts from any computer, without having to sign up or pay any fees. If you'd like to run your own instance of the service, you can easily do so since ntfy is open source.</description>
+    </item>
+   <item>
+      <title>Added "spotify-player" as spotify-tui is no longer maintained</title>
+      <pubDate>Fri, 6 Sep 2024 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#spotify-player</link>
+      <guid>https://cli.club/#spotify-player</guid>
+      <description>A Spotify player in the terminal with full feature parity written in Rust. Considered a replacement for spotify-tui as it is no longer maintained.</description>
+    </item>
+   <item>
+      <title>Added "ytfzf" Find and watch youtube videos from the terminal</title>
+      <pubDate>Sat, 29 Nov 2022 07:30:00 +0800</pubDate>
+      <link>https://cli.club/#video</link>
+      <guid>https://cli.club/#video</guid>
+      <description>A POSIX script that helps you find Youtube videos (without API) and opens/downloads them using mpv/youtube-dl.</description>
+    </item>
+   <item>
+      <title>Added "qrcp" Transfer files over Wi-Fi</title>
+      <pubDate>Sat, 27 Nov 2022 12:30:00 +0800</pubDate>
+      <link>https://cli.club/#tools</link>
+      <guid>https://cli.club/#tools</guid>
+      <description>Transfer files over wifi from your computer to your mobile device by scanning a QR code without leaving the terminal.</description>
+    </item>
+   <item>
+      <title>Added "ncspot" Cross-platform ncurses Spotify client</title>
+      <pubDate>Sat, 26 Nov 2022 23:20:00 +0800</pubDate>
+      <link>https://cli.club/#music</link>
+      <guid>https://cli.club/#music</guid>
+      <description>ncspot is a ncurses Spotify client written in Rust using librespot. It is heavily inspired by ncurses MPD clients, such as ncmpc.</description>
+    </item>
+   <item>
+      <title>Added "Toxic" A Tox-based instant messaging and video chat client</title>
+      <pubDate>Sat, 26 Nov 2022 20:15:00 +0800</pubDate>
+      <link>https://cli.club/#tox</link>
+      <guid>https://cli.club/#tox</guid>
+      <description>Toxic is a client with an ncurses interface, written entirely in C. It has support for all basic features, as well as 1-on-1 audio/video chats, and is capable of working on bare-bones systems that lack graphical interfaces. Development is lead by Jfreegman.</description>
+    </item>
+  </channel>
+</rss>
