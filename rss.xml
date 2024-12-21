@@ -7,6 +7,13 @@
     <description>Command-line Interface Tools and Alternatives</description>
     <language>en-us</language>
    <item>
+      <title>Introducing pqc.club! Post-Quantum Cryptography Tools and Alternatives</title>
+      <pubDate>Sat, 21 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://pqc.club</link>
+      <guid>https://pqc.club</guid>
+      <description>A collection of the best Post-Quantum Cryptography Tools and Alternatives to switch from software using legacy encryption. Find us at https://pqc.club.</description>
+    </item>
+   <item>
       <title>Added "lazygit" simple terminal UI for git commands</title>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       <link>https://cli.club/#lazygit</link>
