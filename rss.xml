@@ -7,8 +7,31 @@
     <description>Command-line Interface Tools and Alternatives</description>
     <language>en-us</language>
    <item>
+      <title>Added everything from the awesome-cli list</title>
+      <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://cli.club/##</link>
+      <guid>https://cli.club/##</guid>
+      <description>cli.club now contains every tool on the awesome-cli list (https://github.com/agarrharr/awesome-cli-apps) along with numerous other tools suggested by community members. This now makes cli.club the most comprehensive cli list on the internet. Thank you to all contributors.</description>
+    </item>
+   <item>
+      <title>Added "glicol-cli" cross-platform music live coding in terminal</title>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#glicol</link>
+      <guid>https://cli.club/#glicol</guid>
+      <description>It's a command line interface that you can use for music live coding with Glicol.
+
+It watches a file changes and then update the music in real-time.</description>
+    </item>
+   <item>
+      <title>Added "asak" A cross-platform audio recording/playback CLI tool with TUI, written in Rust</title>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#asak</link>
+      <guid>https://cli.club/#asak</guid>
+      <description>A cross-platform audio recording/playback CLI tool with TUI, written in Rust. The goal is to be an audio Swiss Army Knife (asak), like SoX but more interactive and fun.</description>
+    </item>
+   <item>
       <title>Added "pls" a prettier and powerful ls(1) for the pros</title>
-      <pubDate>Sat, 25 Dec 2024 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
       <link>https://cli.club/#pls</link>
       <guid>https://cli.club/#pls</guid>
       <description>pls is a prettier and powerful ls(1) for the pros.</description>
