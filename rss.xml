@@ -7,6 +7,13 @@
     <description>Command-line Interface Tools and Alternatives</description>
     <language>en-us</language>
    <item>
+      <title>Added "aerc" a pretty good email client</title>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#aerc</link>
+      <guid>https://cli.club/#aerc</guid>
+      <description>aerc is an email client that runs in your terminal. It's highly efficient and extensible, perfect for the discerning hacker.</description>
+    </item>
+   <item>
       <title>Added everything from the awesome-cli list</title>
       <pubDate>Fri, 27 Dec 2024 00:00:00 +0000</pubDate>
       <link>https://cli.club/##</link>
