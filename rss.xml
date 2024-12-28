@@ -7,6 +7,13 @@
     <description>Command-line Interface Tools and Alternatives</description>
     <language>en-us</language>
    <item>
+      <title>Added "iamb" A Matrix client for Vim addicts</title>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#iamb</link>
+      <guid>https://cli.club/#iamb</guid>
+      <description>iamb is a Matrix client written in Rust with Vim-style keys. It supports threads, spaces, e2ee, and more.</description>
+    </item>
+   <item>
       <title>Added "aerc" a pretty good email client</title>
       <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
       <link>https://cli.club/#aerc</link>
