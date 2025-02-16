@@ -7,6 +7,20 @@
     <description>Command-line Interface Tools and Alternatives</description>
     <language>en-us</language>
    <item>
+      <title>Added "bagels" A powerful expense tracker that lives in your terminal</title>
+      <pubDate>Sun, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#bagels</link>
+      <guid>https://cli.club/#bagels</guid>
+      <description>Bagels expense tracker is a TUI application where you can track and analyse your money flow, with convenience oriented features and a complete interface.</description>
+    </item>
+   <item>
+      <title>Added "posting" The modern API client that lives in your terminal</title>
+      <pubDate>Sun, 16 Feb 2024 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#posting</link>
+      <guid>https://cli.club/#posting</guid>
+      <description>Posting is an HTTP client, not unlike Postman and Insomnia. As a TUI application, it can be used over SSH and enables efficient keyboard-centric workflows. Your requests are stored locally in simple YAML files, so they're easy to read and version control.</description>
+    </item>
+   <item>
       <title>Added "iamb" A Matrix client for Vim addicts</title>
       <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
       <link>https://cli.club/#iamb</link>
