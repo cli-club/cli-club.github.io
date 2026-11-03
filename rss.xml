@@ -7,6 +7,181 @@
     <description>Command-line Interface Tools and Alternatives</description>
     <language>en-us</language>
    <item>
+      <title>Added "ripgrep-all" ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#ripgrep-all</link>
+      <guid>https://cli.club/#ripgrep-all</guid>
+      <description>rga is a line-oriented search tool that wraps ripgrep and lets you search for a regex in a multitude of file types: PDFs, E-Books, Office documents, zip and tar.gz archives, sqlite databases, movie subtitles and more.</description>
+    </item>
+   <item>
+      <title>Added "advcpmv" Progress bars for GNU cp and mv</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#advcpmv</link>
+      <guid>https://cli.club/#advcpmv</guid>
+      <description>A patch for the GNU cp and mv tools which adds a progress bar and provides some info on what&#x27;s going on.</description>
+    </item>
+   <item>
+      <title>Added "Terminal RPN Calculator" An HP42S/HP48SX style calculator for the terminal</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#terminal-rpn-calculator</link>
+      <guid>https://cli.club/#terminal-rpn-calculator</guid>
+      <description>A simple terminal calculator in the style of an HP42S or HP48SX, written in pure Python. Without a fancy GUI but with a super functional TUI instead.</description>
+    </item>
+   <item>
+      <title>Added "zenith" In terminal graphical metrics for your *nix system</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#zenith</link>
+      <guid>https://cli.club/#zenith</guid>
+      <description>zenith is sort of like top or htop but with zoom-able charts, CPU, GPU, network and disk usage.</description>
+    </item>
+   <item>
+      <title>Added "wlsunset" Day/night gamma adjustments for Wayland</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#wlsunset</link>
+      <guid>https://cli.club/#wlsunset</guid>
+      <description>Day/night gamma adjustments for Wayland compositors supporting wlr-gamma-control-unstable-v1.</description>
+    </item>
+   <item>
+      <title>Added "wl-gammarelay" Dynamically change the color temperature and software brightness</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#wl-gammarelay</link>
+      <guid>https://cli.club/#wl-gammarelay</guid>
+      <description>A client and daemon for changing color temperature and brightness under Wayland via keybindings.</description>
+    </item>
+   <item>
+      <title>Added "wl-clipboard" Command-line copy/paste utilities for Wayland</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#wl-clipboard</link>
+      <guid>https://cli.club/#wl-clipboard</guid>
+      <description>wl-copy and wl-paste let you easily copy data between the Wayland clipboard and Unix pipes, sockets, files and so on.</description>
+    </item>
+   <item>
+      <title>Added "GNU Stow" A symlink farm manager and dotfile organizer</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#stow</link>
+      <guid>https://cli.club/#stow</guid>
+      <description>GNU Stow is a symlink farm manager which takes packages located in separate directories and makes them appear installed in the same place. Commonly used to organize dotfiles.</description>
+    </item>
+   <item>
+      <title>Added "bash simple curses" Create some windows on your terminal</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#simplecurses</link>
+      <guid>https://cli.club/#simplecurses</guid>
+      <description>Create simple ncurses-like windows in your terminal with bash. Useful for building small dashboards and status displays from shell scripts.</description>
+    </item>
+   <item>
+      <title>Added "Terminal Shell Clock" A large clock for your terminal</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#terminal-shell-clock</link>
+      <guid>https://cli.club/#terminal-shell-clock</guid>
+      <description>A large terminal shell clock written in Bash, with different styles and different colors.</description>
+    </item>
+   <item>
+      <title>Added "vit" Visual Interactive Taskwarrior</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#vit</link>
+      <guid>https://cli.club/#vit</guid>
+      <description>VIT is a lightweight, fast, curses-based full-screen terminal interface for Taskwarrior with vim-like keybindings.</description>
+    </item>
+   <item>
+      <title>Added "JiraTUI" A TUI for interacting with Atlassian Jira from your shell</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#jiratui</link>
+      <guid>https://cli.club/#jiratui</guid>
+      <description>JiraTUI lets you search, view, create, delete, update and clone Jira work items from your shell. Includes full-text search, adding comments, related tasks, attachments and more.</description>
+    </item>
+   <item>
+      <title>Added "bmm" Get to your bookmarks in a flash</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#bmm</link>
+      <guid>https://cli.club/#bmm</guid>
+      <description>bmm (bookmarks manager) stores your bookmarks locally and lets you quickly access, list, search and manage them through a CLI and a TUI.</description>
+    </item>
+   <item>
+      <title>Added "WezTerm" A GPU-accelerated cross-platform terminal emulator and multiplexer</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#wezterm</link>
+      <guid>https://cli.club/#wezterm</guid>
+      <description>WezTerm is a GPU-accelerated cross-platform terminal emulator and multiplexer written in Rust, configurable with Lua.</description>
+    </item>
+   <item>
+      <title>Added "kitty" A fast, feature-rich, cross-platform, GPU based terminal</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#kitty</link>
+      <guid>https://cli.club/#kitty</guid>
+      <description>kitty is a fast, feature-rich, cross-platform, GPU based terminal emulator. It supports tiling multiple windows, ligatures, true color, an image protocol and is extensible via &quot;kittens&quot;.</description>
+    </item>
+   <item>
+      <title>Added "Ghostty" A fast, native, feature-rich terminal emulator</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#ghostty</link>
+      <guid>https://cli.club/#ghostty</guid>
+      <description>Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.</description>
+    </item>
+   <item>
+      <title>Added "foot" A fast, lightweight and minimalistic Wayland terminal emulator</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#foot</link>
+      <guid>https://cli.club/#foot</guid>
+      <description>foot is a fast, lightweight and minimalistic Wayland terminal emulator. It supports a server/client mode, sixel images, true color and font ligatures.</description>
+    </item>
+   <item>
+      <title>Added "Zellij" A terminal workspace with batteries included</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#zellij</link>
+      <guid>https://cli.club/#zellij</guid>
+      <description>Zellij is a terminal multiplexer and workspace with batteries included. It features a layout system, floating and stacked panes, session management and a WebAssembly plugin system.</description>
+    </item>
+   <item>
+      <title>Added "rofi" A window switcher, application launcher and dmenu replacement</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#rofi</link>
+      <guid>https://cli.club/#rofi</guid>
+      <description>rofi is a window switcher, application launcher, ssh dialog and dmenu replacement. It can be fully driven by the keyboard and extended with custom scripts.</description>
+    </item>
+   <item>
+      <title>Added "ShellCheck" A static analysis tool for shell scripts</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#shellcheck</link>
+      <guid>https://cli.club/#shellcheck</guid>
+      <description>ShellCheck is a GPLv3 tool that gives warnings and suggestions for bash/sh shell scripts. It points out typical beginner syntax issues, semantic problems and subtle caveats that can cause scripts to fail.</description>
+    </item>
+   <item>
+      <title>Added "Chawan" Text-mode web browser and pager for Unix-like systems</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#chawan</link>
+      <guid>https://cli.club/#chawan</guid>
+      <description>Chawan is a text-mode web browser and pager for Unix-like systems. It supports CSS, inline images, optional JavaScript, and protocols such as HTTP(S), FTP, Gopher and Gemini.</description>
+    </item>
+   <item>
+      <title>Added "Browsh" A modern text-based browser</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#browsh</link>
+      <guid>https://cli.club/#browsh</guid>
+      <description>Browsh is a fully-modern text-based browser. It renders anything that a modern browser can: HTML5, CSS3, JS, video and even WebGL. It can be run on a remote server and accessed via SSH/Mosh to significantly reduce bandwidth usage.</description>
+    </item>
+   <item>
+      <title>Added "magic-tape" An image supporting fuzzy finder YouTube client</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#magic-tape</link>
+      <guid>https://cli.club/#magic-tape</guid>
+      <description>magic-tape is an image supporting fuzzy finder command line interface YouTube client. Search, browse and watch videos and channels without leaving the terminal.</description>
+    </item>
+   <item>
+      <title>Added "vimiv" An image viewer with vim-like keybindings</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#vimiv</link>
+      <guid>https://cli.club/#vimiv</guid>
+      <description>vimiv is an image viewer with vim-like keybindings. It supports a thumbnail mode, a library browser, basic image editing and a command line with tab completion.</description>
+    </item>
+   <item>
+      <title>Added "ucollage" An extensible command line image viewer inspired by vim</title>
+      <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#ucollage</link>
+      <guid>https://cli.club/#ucollage</guid>
+      <description>ucollage is an extensible command line image viewer inspired by vim. It displays images in a grid layout directly in the terminal, with vim-like keybindings and custom commands.</description>
+    </item>
+   <item>
       <title>Added "bagels" A powerful expense tracker that lives in your terminal</title>
       <pubDate>Sun, 16 Feb 2024 00:00:00 +0000</pubDate>
       <link>https://cli.club/#bagels</link>
