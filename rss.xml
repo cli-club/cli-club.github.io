@@ -7,6 +7,125 @@
     <description>Command-line Interface Tools and Alternatives</description>
     <language>en-us</language>
    <item>
+      <title>Removed 238 unmaintained, archived and lesser-used entries</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/</link>
+      <guid isPermaLink="false">https://cli.club/#cleanup-2026-11</guid>
+      <description>To improve the quality of recommendations, every entry was reviewed. Entries that are archived, deleted, have had no commits in over two years, or have fewer than 1,000 GitHub stars were removed, along with duplicates. Moved repositories were updated to their new home, and 16 actively maintained alternatives were added in their place.</description>
+    </item>
+   <item>
+      <title>Added "Himalaya" CLI to manage emails</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#himalaya</link>
+      <guid>https://cli.club/#himalaya</guid>
+      <description>Himalaya is a command-line email client written in Rust. It supports multiple accounts, IMAP, Maildir, Notmuch and SMTP, with plain-text and JSON output for scripting.</description>
+    </item>
+   <item>
+      <title>Added "nchat" Terminal-based chat client for Telegram and WhatsApp</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#nchat</link>
+      <guid>https://cli.club/#nchat</guid>
+      <description>nchat is a terminal-based chat client for Linux and macOS with support for Telegram and WhatsApp. It features a familiar layout, emoji, file transfers, message search and customisable keybindings.</description>
+    </item>
+   <item>
+      <title>Added "Chafa" Terminal graphics for the 21st century</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#chafa</link>
+      <guid>https://cli.club/#chafa</guid>
+      <description>Chafa displays images, including animated GIFs, directly in the terminal. It supports the Sixel, Kitty and iTerm2 graphics protocols and falls back to high quality Unicode/ANSI character art.</description>
+    </item>
+   <item>
+      <title>Added "Neovim" Vim-fork focused on extensibility and usability</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#neovim</link>
+      <guid>https://cli.club/#neovim</guid>
+      <description>Neovim is a refactor of Vim that adds a built-in LSP client, Tree-sitter syntax highlighting, an embedded Lua runtime for configuration and plugins, and an API for building UIs and integrations.</description>
+    </item>
+   <item>
+      <title>Added "presenterm" A markdown terminal slideshow tool</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#presenterm</link>
+      <guid>https://cli.club/#presenterm</guid>
+      <description>presenterm lets you write presentations in markdown and run them in your terminal, with support for images, themes, code highlighting, executable code blocks and PDF export.</description>
+    </item>
+   <item>
+      <title>Added "ttyd" Share your terminal over the web</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#ttyd</link>
+      <guid>https://cli.club/#ttyd</guid>
+      <description>ttyd is a simple command-line tool for sharing a terminal over the web, built on libwebsockets and xterm.js with SSL, basic auth and full-featured terminal emulation.</description>
+    </item>
+   <item>
+      <title>Added "Starship" The minimal, blazing-fast, and infinitely customizable prompt for any shell</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#starship</link>
+      <guid>https://cli.club/#starship</guid>
+      <description>Starship is a cross-shell prompt written in Rust that works with bash, zsh, fish, PowerShell and more. It shows the information you need while you work and stays out of your way.</description>
+    </item>
+   <item>
+      <title>Added "Pueue" Manage your shell commands</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#pueue</link>
+      <guid>https://cli.club/#pueue</guid>
+      <description>Pueue is a command-line task manager for sequential and parallel execution of long-running tasks. Queue commands, run them in the background and inspect or control them later, even across sessions.</description>
+    </item>
+   <item>
+      <title>Added "btop" A monitor of resources</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#btop</link>
+      <guid>https://cli.club/#btop</guid>
+      <description>btop shows usage and stats for processor, memory, disks, network and processes, with a fast, mouse-enabled interface and a fully menu-driven configuration.</description>
+    </item>
+   <item>
+      <title>Added "F2" Batch renaming files and directories</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#f2</link>
+      <guid>https://cli.club/#f2</guid>
+      <description>F2 is a cross-platform command-line tool for renaming files and directories quickly and safely, with find and replace, regular expressions, built-in variables, a dry-run preview and undo.</description>
+    </item>
+   <item>
+      <title>Added "dust" A more intuitive version of du</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#dust</link>
+      <guid>https://cli.club/#dust</guid>
+      <description>dust gives you an instant overview of which directories are using disk space, drawn as a tree with bar charts, without needing to sort or pipe the output through other tools.</description>
+    </item>
+   <item>
+      <title>Added "croc" Easily and securely send things from one computer to another</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#croc</link>
+      <guid>https://cli.club/#croc</guid>
+      <description>croc lets any two computers transfer files and folders securely with end-to-end encryption through a relay. Transfers are resumable, cross-platform and need no port forwarding.</description>
+    </item>
+   <item>
+      <title>Added "GitUI" Blazing fast terminal UI for git</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#gitui</link>
+      <guid>https://cli.club/#gitui</guid>
+      <description>GitUI gives you the comfort of a git GUI right in your terminal: staging, committing, branching, stashing, log and diff inspection, all keyboard driven and fast on large repositories.</description>
+    </item>
+   <item>
+      <title>Added "delta" A syntax-highlighting pager for git, diff and grep output</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#delta</link>
+      <guid>https://cli.club/#delta</guid>
+      <description>delta adds syntax highlighting, line numbers, side-by-side view and word-level diff highlighting to git diff, git show, git blame, grep and more.</description>
+    </item>
+   <item>
+      <title>Added "gh" GitHub&#x27;s official command line tool</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#gh</link>
+      <guid>https://cli.club/#gh</guid>
+      <description>gh brings pull requests, issues, GitHub Actions, releases and other GitHub concepts to the terminal, next to where you are already working with git.</description>
+    </item>
+   <item>
+      <title>Added "genact" A nonsense activity generator</title>
+      <pubDate>Tue, 10 Nov 2026 00:00:00 +0000</pubDate>
+      <link>https://cli.club/#genact</link>
+      <guid>https://cli.club/#genact</guid>
+      <description>Pretend to be busy or waiting for your computer when you should actually be doing real work. genact shows convincing fake activity such as compiling, downloading and deploying.</description>
+    </item>
+   <item>
       <title>Added "ripgrep-all" ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.</title>
       <pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
       <link>https://cli.club/#ripgrep-all</link>
